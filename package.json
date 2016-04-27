@@ -1,0 +1,16 @@
+{
+  "name": "segment-group",
+  "version": "1.0.0",
+  "main": "js/src/SegmentGroup",
+  "dependencies": {
+    "factory": "aleclarson/factory#1.0.0",
+    "lazy-var": "aleclarson/lazy-var#1.0.0",
+    "progress": "aleclarson/progress#1.0.0",
+    "type-utils": "aleclarson/type-utils#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}

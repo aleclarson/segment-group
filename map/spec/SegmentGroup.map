@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "SegmentGroup.js",
+  "sourceRoot": "../../spec",
+  "sources": [
+    "SegmentGroup.coffee"
+  ],
+  "names": [],
+  "mappings": ""
+}
